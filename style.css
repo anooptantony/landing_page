@@ -7,19 +7,38 @@ body {
 }
 
 .header {
+    align-items: center;
     display: flex;
+    background-color: #1F2937;
+    height: 100%;
+}
+
+.logo_container {
+    align-items: center;
+    display: flex;
+    height: 100%;
+    margin-left: 100px;
 }
 
 .logo {
+    align-items: center;
+    border-radius: 5px;
+    display: flex;
     height: 80px;
-    width: auto;
-    display: block;
+    width: 100px;
 }
+
 .header_links {
     display: flex;
+    justify-content: flex-end;
+    margin-left: auto;
+    margin-right: 100px;
 }
 
 .links {
     display: flex;
+    color: #F9FAF8;
+    font-size: 20px;
+    gap: 30px;
     list-style: none;
 }
