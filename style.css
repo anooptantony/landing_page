@@ -42,3 +42,37 @@ body {
     gap: 30px;
     list-style: none;
 }
+
+.hero_container {
+    background-color: #1F2937;
+    display: flex;
+}
+
+.hero_content {
+    display: flex;
+}
+
+.hero_left {
+    color: #F9FAF8;
+    display: flex;
+    flex-direction: column;
+}
+
+.heading {
+    display: flex;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.hero_text {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.hero_right {
+    display: flex;
+}
+
+.hero_img {
+    display: flex;
+}
