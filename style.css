@@ -46,16 +46,30 @@ body {
 .hero_container {
     background-color: #1F2937;
     display: flex;
+    height: 100%;
 }
 
 .hero_content {
     display: flex;
+    height: 350px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    flex-wrap: wrap;
+    flex: 1;
 }
 
 .hero_left {
+    box-sizing: border-box;
     color: #F9FAF8;
     display: flex;
     flex-direction: column;
+    flex: 0 0 50%;
+    justify-content: space-between;
+    max-width: 50%;
+    max-height: 350px;
+    padding-right: 20px;
 }
 
 .heading {
@@ -69,10 +83,25 @@ body {
     font-size: 18px;
 }
 
+.hero_button {
+    color: #F9FAF8;
+    background-color: #3882F6;
+    border-radius: 5px;
+    max-width: 100px;
+    max-height: 150px;
+}
+
 .hero_right {
+    box-sizing: border-box;
     display: flex;
+    flex-direction: column;
+    flex: 0 0 50%;
+    max-width: 50%;
+    max-height: 350px;
+    padding-left: 20px;
 }
 
 .hero_img {
     display: flex;
+    max-height: 350px;
 }
