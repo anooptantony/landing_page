@@ -151,3 +151,35 @@ body {
     object-fit: cover;
     display: block;
 }
+
+.quote_container {
+    align-items: center;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-wrap: wrap;
+    height: 400px;
+    justify-content: center;
+}
+
+.quote_text_container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 100px;
+}
+
+.quote {
+    color: #1F2937;
+    font-style: italic;
+    font-size: 36px;
+    font-weight: 300;
+}
+
+.author {
+    display: flex;
+    font-weight: bolder;
+    font-size: 30px;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    margin-right: 100px;
+}

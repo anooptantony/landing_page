@@ -22,9 +22,9 @@ This is a landing page that is created as part of 'The Odin Project'-Chapter
 #   Font size: 36px
 #   Color: #1F2937
 #   Weight: 900
--   Quote:
-    Background color: #E5E7EB
-    Font size: 36px
-    Color: #1F2937
-    Weight: 300
-    Font style: italic
+#   Quote:
+#   Background color: #E5E7EB
+#   Font size: 36px
+#   Color: #1F2937
+#   Weight: 300
+#   Font style: italic
