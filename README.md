@@ -17,7 +17,7 @@ This is a landing page that is created as part of 'The Odin Project'-Chapter
 #   Weight: 900
 #   Hero secondary text (“This website has some subtext…”)
 #   Font size: 18px
--   Button and “Call to action” background color: #3882F6
+#   Button and “Call to action” background color: #3882F6
 #   Information heading:
 #   Font size: 36px
 #   Color: #1F2937
