@@ -105,3 +105,49 @@ body {
     display: flex;
     max-height: 350px;
 }
+
+.games_container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.games_heading {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+    margin-bottom: 50px;
+}
+
+.games {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin-bottom: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.game_1, .game_2, .game_3, .game_4 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 0;
+    height: 220px;
+    min-width: 0;
+    max-width: 20%;
+    max-height: 100%;
+    overflow: hidden;
+    text-align: center;
+}
+
+.game_1_img, .game_2_img, .game_3_img, .game_4_img {
+    border-radius: 10px;
+    max-height: 150px;
+    max-width: auto;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}

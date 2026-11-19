@@ -6,8 +6,8 @@ This is a landing page that is created as part of 'The Odin Project'-Chapter
 #   The desired output image is saved in the directory 'Home/repos/landing_page/desired_result.png'
 #   Font: Roboto (you will need to download and install this font if you don’t already have it)
 -   Dark background color (header, hero section and footer): #1F2937
-    header links:
-    Color: #E5E7EB
+#   header links:
+#   Color: #E5E7EB
 #   Logo text:
 #   Font size: 24px
 #   Color: #F9FAF8
@@ -18,10 +18,10 @@ This is a landing page that is created as part of 'The Odin Project'-Chapter
 #   Hero secondary text (“This website has some subtext…”)
 #   Font size: 18px
 -   Button and “Call to action” background color: #3882F6
--   Information heading:
-    Font size: 36px
-    Color: #1F2937
-    Weight: 900
+#   Information heading:
+#   Font size: 36px
+#   Color: #1F2937
+#   Weight: 900
 -   Quote:
     Background color: #E5E7EB
     Font size: 36px
