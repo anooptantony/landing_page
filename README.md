@@ -5,7 +5,7 @@ This is a landing page that is created as part of 'The Odin Project'-Chapter
 # Feature requirements of page
 #   The desired output image is saved in the directory 'Home/repos/landing_page/desired_result.png'
 #   Font: Roboto (you will need to download and install this font if you don’t already have it)
--   Dark background color (header, hero section and footer): #1F2937
+#   Dark background color (header, hero section and footer): #1F2937
 #   header links:
 #   Color: #E5E7EB
 #   Logo text:
